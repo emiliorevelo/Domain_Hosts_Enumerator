@@ -4,7 +4,7 @@
 
 #If you want to obtain just the hostnames use:
 
-"cat [Input_file] | cut -d ' ' -f3 | cut -d '.' -f1 > [Input_file]"
+# "cat [Input_file] | cut -d ' ' -f3 | cut -d '.' -f1 > [Input_file]"
 
 i=0
 j=0
